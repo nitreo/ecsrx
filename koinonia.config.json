@@ -7,7 +7,7 @@
     "nitreo/UniRx" : "master"
   },
   "Mappings" : {
-    "Default" : "src/Assets/",
+    "Default" : "src/Assets/EcsRx",
     "Docs" : "docs"
   }
 
